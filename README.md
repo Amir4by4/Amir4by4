@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-### 🌐 Network & Infrastructure
+### Im Working On These!👀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" align="center" />
   
-  <img src="https://img.shields.io/badge/MikroTik-0E0E10?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  
-  <img src="https://img.shields.io/badge/Network%2B-E3000F?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />
+  <img src="https://img.shields.io/badge/MikroTik-0E0E10?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" align="center" />
+  <img src="https://img.shields.io/badge/Network%2B-E3000F?style=flat-square&logo=comptia&logoColor=white" alt="Network+" align="center" />
 </p>
